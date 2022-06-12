@@ -11,9 +11,5 @@
        {"predicate": {"custom_model_data":5}, "model": "item/ammorpg"},
        {"predicate": {"custom_model_data":6}, "model": "item/ammomusketball"}
       
-       {"predicate": {"custom_model_data":8}, "model": "item/ammo40m"},
-
-       {"predicate": {"custom_model_data":9}, "model": "item/ammomininuke"},
-       {"predicate": {"custom_model_data":10}, "model": "item/ammofusion"}
-   ]
+       ]
 }
